@@ -31,3 +31,9 @@ Love to play chess, guitar and sketch.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
 </div>
 
+  
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifier121&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacifier121&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
